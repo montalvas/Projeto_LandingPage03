@@ -1,4 +1,12 @@
-# Projeto_LandingPage03
- Site simples de empresa com HTML, CSS e JS
+# Projeto de empresa
 
- link: https://montalvas.github.io/Projeto_LandingPage03/
+**Desenvolvimento de um site para agências/empresas de pequeno ou médio porte.**
+
+O projeto possui:
+* Banner destaque.
+* Responsividade.
+* Slider com Javascript.
+* Google Maps.
+* Links.
+---
+ [link](https://montalvas.github.io/Projeto_LandingPage03/)
